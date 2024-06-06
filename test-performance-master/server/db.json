@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "id": "a5db",
+      "name": "UsuarioPrueba",
+      "email": "usuarioPrueba@gmail.com",
+      "password": "123456789",
+      "rol": "1"
+    },
+    {
+      "id": "4702",
+      "name": "Tatianita",
+      "email": "Tatiana@gmail.com",
+      "password": "123456789",
+      "rol": "2"
+    },
+    {
+      "id": "bee3",
+      "name": "UltimoUser",
+      "email": "UltimoUser@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "0117",
+      "name": "UltimoUltomoUser",
+      "email": "UltimoUseUltimoUltomoUserr@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "travels": []
+}

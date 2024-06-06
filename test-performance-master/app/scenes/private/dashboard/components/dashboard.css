@@ -1,0 +1,80 @@
+li{
+    list-style: none    ;
+    background-color: rgb(19, 91, 155);
+    height: 300px;
+    border-radius: 10px;
+}
+
+.containerlist{
+    width: 70%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 26% 26% 26% ;
+
+    grid-gap: 12%;
+    
+}
+
+.btnaddtravel{
+    margin-left: 50%;
+    margin-top: 15%;
+    width: 100px;
+    height: 25px;
+    background-color: red;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.containerForm{
+    position: absolute;
+    top: 60%;
+    left: 40%; 
+    display: none;
+    width: auto;
+    margin: auto;
+    
+}
+
+.buttonclosed{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 56%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #111111;
+    color: white;
+    cursor: pointer;
+    max-width: 55px;
+    max-height: 30px;
+}
+.label {
+    margin-bottom: 5px;
+    color: black;
+}
+
+.input {
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.buttonsend {
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+.buttonsend:hover {
+    background-color: #45a049;
+}
